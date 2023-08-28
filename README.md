@@ -16,6 +16,7 @@ To run code for subtask B with prompts:
 bash ./train_subtaskB_w_prompts.sh ../config/config-MODEL_NAME.txt
 
 MODEL_NAME includes:
+
 "bart_mnli_encoder": corresponds to the BART-MNLI-e model
 
 "bert_base": corresponds to the BERT model
