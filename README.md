@@ -4,15 +4,19 @@ This is the sample code for our EMNLP23 submission: EZ-STANCE: A Large Dataset f
 cd ./src
 
 To run code for subtask A:
+
 bash ./train_subtaskA.sh ../config/config-MODEL_NAME.txt
 
 To run code for subtask A with prompts:
+
 bash ./train_subtaskA_w_prompts.sh ../config/config-MODEL_NAME.txt
 
 To run code for subtask B:
+
 bash ./train_subtaskB.sh ../config/config-MODEL_NAME.txt
 
 To run code for subtask B with prompts:
+
 bash ./train_subtaskB_w_prompts.sh ../config/config-MODEL_NAME.txt
 
 MODEL_NAME includes:
