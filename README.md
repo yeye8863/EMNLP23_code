@@ -17,8 +17,13 @@ bash ./train_subtaskB_w_prompts.sh ../config/config-MODEL_NAME.txt
 
 MODEL_NAME includes:
 "bart_mnli_encoder": corresponds to the BART-MNLI-e model
+
 "bert_base": corresponds to the BERT model
+
 "bert_mnli": corresponds to the BERT-MNLI model
+
 "roberta_base_mnli": corresponds to the RoBERTa-MNLI model
+
 "roberta_base": corresponds to the RoBERTa model
+
 "xlnet_base": corresponds to the XLNet model
